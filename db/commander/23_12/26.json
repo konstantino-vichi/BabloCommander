@@ -1,0 +1,27 @@
+[
+  {
+    "amount": 160,
+    "category": "Groceries",
+    "notes": "Spent at 7-11 with girlfriend"
+  },
+  {
+    "amount": 150,
+    "category": "Food",
+    "notes": "Brunch - Khao Pad with Shrimp"
+  },
+  {
+    "amount": 500,
+    "category": "Housekeeping",
+    "notes": ""
+  },
+  {
+    "amount": 240,
+    "category": "Health",
+    "notes": "Nicorette purchase"
+  },
+  {
+    "amount": 7,
+    "category": "Drinks",
+    "notes": "Water"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "amount": 242,
+    "category": "Household Supplies",
+    "notes": "Razors, herbal toothpaste, shampoo, shower cream"
+  },
+  {
+    "amount": 9,
+    "category": "Food",
+    "notes": "Banana"
+  },
+  {
+    "amount": 690,
+    "category": "Electronics",
+    "notes": "Case for iPhone 15"
+  },
+  {
+    "amount": 66,
+    "category": "Coffee",
+    "notes": ""
+  },
+  {
+    "amount": 440,
+    "category": "Groceries",
+    "notes": "Ingredients for cooking pasta dinner"
+  }
+]

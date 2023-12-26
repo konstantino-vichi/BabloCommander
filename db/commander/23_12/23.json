@@ -1,0 +1,32 @@
+[
+  {
+    "amount": 800,
+    "category": "Weed",
+    "notes": "Medical ?? :D"
+  },
+  {
+    "amount": 324,
+    "category": "Food",
+    "notes": "Dinner"
+  },
+  {
+    "amount": 102,
+    "category": "Drinks",
+    "notes": ""
+  },
+  {
+    "amount": 80,
+    "category": "Food",
+    "notes": "Roti"
+  },
+  {
+    "amount": 130,
+    "category": "Coffee",
+    "notes": ""
+  },
+  {
+    "amount": 43,
+    "category": "Drinks",
+    "notes": "Water"
+  }
+]

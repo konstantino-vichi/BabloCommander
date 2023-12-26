@@ -1,0 +1,22 @@
+[
+  {
+    "amount": 45,
+    "category": "Food",
+    "notes": "Dinner"
+  },
+  {
+    "amount": 82,
+    "category": "Groceries",
+    "notes": "Tops Mini"
+  },
+  {
+    "amount": 124,
+    "category": "Food",
+    "notes": "Lunch"
+  },
+  {
+    "amount": 144,
+    "category": "Coffee",
+    "notes": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "amount": 430,
+    "category": "Food",
+    "notes": "Dinner expense"
+  },
+  {
+    "amount": 180,
+    "category": ["Groceries", "Water", "Drinks"],
+    "notes": "Water purchase - large bottles for multiple days"
+  },
+  {
+    "amount": 128,
+    "category": "Snacks",
+    "notes": ""
+  },
+  {
+    "amount": 39,
+    "category": "Snacks",
+    "notes": "Kit Kat"
+  }
+]
