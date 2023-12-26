@@ -1,0 +1,17 @@
+[
+  {
+    "amount": 695,
+    "category": "Utilities",
+    "notes": "Internet bill"
+  },
+  {
+    "amount": 100,
+    "category": "Gifts",
+    "notes": "Gift bag"
+  },
+  {
+    "amount": 89,
+    "category": "Groceries",
+    "notes": "Water purchase"
+  }
+]

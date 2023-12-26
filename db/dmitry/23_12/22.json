@@ -1,0 +1,22 @@
+[
+  {
+    "amount": 262,
+    "category": "Transport",
+    "notes": "Ticket for Электричка"
+  },
+  {
+    "amount": 50,
+    "category": "Groceries",
+    "notes": "Water purchase"
+  },
+  {
+    "amount": 160,
+    "category": "Transport",
+    "notes": "Taxi fare"
+  },
+  {
+    "amount": 700,
+    "category": "Miscellaneous",
+    "notes": "Nastya's expenses (Dmitry's girlfriend)"
+  }
+]
