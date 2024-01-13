@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Food",
+    "subcategory": "Meal",
+    "amount": 124,
+    "currency": "USD",
+    "notes": "lunch at the office"
+  },
+  {
+    "category": "Food",
+    "subcategory": "Beverage",
+    "amount": 85,
+    "currency": "USD",
+    "notes": "coffee at Starbucks"
+  },
+  {
+    "category": "Food",
+    "subcategory": "Grocery",
+    "amount": 150,
+    "currency": "USD",
+    "notes": "groceries at Seven Eleven"
+  },
+  {
+    "category": "Housing",
+    "subcategory": "Rent",
+    "amount": 10338,
+    "currency": "USD",
+    "notes": "rent for kvartira #1"
+  },
+  {
+    "category": "Housing",
+    "subcategory": "Utilities",
+    "amount": 1994,
+    "currency": "USD",
+    "notes": "utilities for kvartira #2"
+  },
+  {
+    "category": "Transportation",
+    "subcategory": "Bike",
+    "amount": 3200,
+    "currency": "USD",
+    "notes": "new bike purchase"
+  }
+]
